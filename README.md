@@ -1,5 +1,7 @@
 # no-show-smart-scheduling
 AI-assisted business systems analysis — full requirements lifecycle with traceability and a human-oversight governance layer, on a patient no-show use case.
+**▶ Live demo:** https://shalkhakov.github.io/no-show-smart-scheduling/demo/
+
 # Patient No-Show Risk & Smart Scheduling
 
 **A business-systems-analysis portfolio project** demonstrating end-to-end requirements delivery — from business intent through structured requirements, a context specification, a working demo, and full traceability — with an explicit human-oversight layer over AI-assisted work.
