@@ -28,7 +28,7 @@ Outpatient clinics lose revenue and capacity to no-shows (industry range ~15–3
 | [`03-context-specification.md`](03-context-specification.md) | Data model, transparent risk-scoring rules, action-mapping logic, edge cases, assumptions |
 | [`04-traceability-matrix.md`](04-traceability-matrix.md) | Every business requirement traced through functional requirement → user story → demo feature → acceptance check |
 | [`05-human-oversight-log.md`](05-human-oversight-log.md) | Each AI-assisted step: what was proposed, what was reviewed, what was changed, and why |
-| [`demo/index.html`](demo/index.html) | Working demo — a scheduler view that scores a day of synthetic appointments and recommends actions |
+| [`demo/index.html`](https://shalkhakov.github.io/no-show-smart-scheduling/demo/) | Working demo — a scheduler view that scores a day of synthetic appointments and recommends actions |
 
 ## Running the demo
 
